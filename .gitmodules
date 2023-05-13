@@ -1,0 +1,21 @@
+[submodule "genhub_smart_contracts"]
+	path = genhub_smart_contracts
+	url = git@github.com:genhub-art/genhub_smart_contracts.git
+[submodule "genhub-website"]
+	path = genhub-website
+	url = git@github.com:genhub-art/genhub-website.git
+[submodule "genhub_indexer"]
+	path = genhub_indexer
+	url = git@github.com:genhub-art/genhub_indexer.git
+[submodule "examples/Generative_Token_Template_P5JS"]
+	path = examples/Generative_Token_Template_P5JS
+	url = git@github.com:genhub-art/Generative_Token_Template_P5JS.git
+[submodule "examples/Generative_Token_Truchet_Tiles"]
+	path = examples/Generative_Token_Truchet_Tiles
+	url = git@github.com:genhub-art/Generative_Token_Truchet_Tiles.git
+[submodule "examples/Generative_Token_Cat"]
+	path = examples/Generative_Token_Cat
+	url = git@github.com:genhub-art/Generative_Token_Cat.git
+[submodule "examples/Generative_Token_Planets"]
+	path = examples/Generative_Token_Planets
+	url = git@github.com:genhub-art/Generative_Token_Planets.git
