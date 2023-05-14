@@ -19,6 +19,16 @@ git clone --recursive git@github.com:genhub-art/genhub.git
 
 or clone the relevant repositories individually the standard way.
 
+
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=etK0MsXGRbg" target="_blank">
+ <img src="http://img.youtube.com/vi/etK0MsXGRbg/mqdefault.jpg" alt="Watch the video" width="500" border="10" />
+</a>
+
+https://github.com/genhub-art/genhub/assets/44375889/bc2a95c6-c240-40c4-a374-f86093a13235
+
+
 ## Infrastructure
 
 **Website** - built with Next.js, hosted on Cloud.run with continuous deployment via Docker and Github.
@@ -31,11 +41,6 @@ or clone the relevant repositories individually the standard way.
 
 **Smart Contracts** - written in Solidity, built and deployed with Hardhat. Include Collection.sol (an ERC721 based smart contract) and Factory.sol (creates and keeps track of collections).
 
-## Video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=etK0MsXGRbg" target="_blank">
- <img src="http://img.youtube.com/vi/etK0MsXGRbg/mqdefault.jpg" alt="Watch the video" width="500" border="10" />
-</a>
 
 
 
