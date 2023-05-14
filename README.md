@@ -6,10 +6,11 @@ Once you deploy you collection generator, genhub.art handles all the complexitie
 
 We also provide examples and templates which you can use to get started instantly.
 
-**Website** http://genhub.art/
+**Website** - https://genhub.art
 
-**Docs** https://ivan-tsoninski.gitbook.io/genhub.art/
+**Docs** - https://ivan-tsoninski.gitbook.io/genhub.art
 
+**API** - https://api.gehub.art
 
 To clone with all submodule repositories:
 
@@ -19,15 +20,13 @@ git clone --recursive git@github.com:genhub-art/genhub.git
 
 or clone the relevant repositories individually the standard way.
 
+The **Docs** have all of the below information.
 
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=etK0MsXGRbg" target="_blank">
  <img src="http://img.youtube.com/vi/etK0MsXGRbg/mqdefault.jpg" alt="Watch the video" width="500" border="10" />
 </a>
-
-https://github.com/genhub-art/genhub/assets/44375889/bc2a95c6-c240-40c4-a374-f86093a13235
-
 
 ## Infrastructure
 
@@ -41,14 +40,56 @@ https://github.com/genhub-art/genhub/assets/44375889/bc2a95c6-c240-40c4-a374-f86
 
 **Smart Contracts** - written in Solidity, built and deployed with Hardhat. Include Collection.sol (an ERC721 based smart contract) and Factory.sol (creates and keeps track of collections).
 
+## How to launch your collection
 
+For a more detailed explanation you can see the docs: https://ivan-tsoninski.gitbook.io/genhub.art/launch-your-collection
 
+- Clone our one of our example/templates
+- Modify it to your liking
+- Modify the window.metadata() function
+- Upload the whole folder to our website
+- Play around with the preview by clicking **[Randomize]** to make sure everything is working correctly
+- Enter details about your collection (title, description, price, max supply)
+- Click **[Create Collection]**
+- Confirm the transaction
+- In a few minutes, the collection will be available in the **Collections** page or under **Profile -> Creations**
+- Anyone can use you collection's page to explore your generator by clicking **Variations** and if they like what they see they can click **Mint** to mint their own random NFT.
+
+## API
+
+To learn more about how to use the API you can visit the docs: https://ivan-tsoninski.gitbook.io/genhub.art/api
+
+Available at: https://api.genhub.art
+- GET https://api.genhub.art/factories
+- GET https://api.genhub.art/collections
+- GET https://api.genhub.art/nfts
+- GET https://api.genhub.art/rpc/get_nft_metadata?chain=...&collection=...&token_id=...
+
+## Roadmap
+
+Currently, genhub has the following features:
+- Creating and deploying collections
+- Rich Metadata with attributes/properties
+- Custom minting page for each collection
+- Collection previews
+
+We are planning to implement the following features soon:
+- Parameters for NFTs (allow customization at time of minting)
+- Secondary Marketplace
+- Multichain Support (EVM compatible) 
 
 ## Examples Art Gifs (available on website)
 
+**Interactive Cat**
 
 ![cat](https://github.com/genhub-art/genhub/assets/44375889/9ab103de-33ef-473e-b975-796ef690c64d)
+
+**Animated Solar System**
+
 ![orbit](https://github.com/genhub-art/genhub/assets/44375889/63ac3c94-6a2e-4385-8e89-70c2c913eca4)
+
+**Truchet Tile Maze Algorithmic Art**
+
 ![truchet](https://github.com/genhub-art/genhub/assets/44375889/58f253dc-5ccc-48ac-b254-9aa0938ce335)
 
 
