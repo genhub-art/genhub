@@ -1,4 +1,10 @@
-# genhub
+# Genhub.art
+
+Genhub.art is a powerful open platform for the creation of generative art NFT collections. By using HTML5, anyone can deploy generators for collections that feature any rich media of their choice: 2D images, 3D models, algorithmic art, animations, sound, interactive experiences, or even complete video games and virtual worlds. 
+
+Once you deploy you collection generator, genhub.art handles all the complexities of creating the collection smart contract, creating the minting page, handling minting logic, generating rich metadata for your generative NFTs, and many more.
+
+We also provide examples and templates which you can use to get started instantly.
 
 **Website** http://genhub.art/
 
