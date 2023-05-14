@@ -27,8 +27,17 @@ or clone the relevant repositories individually the standard way.
 
 ## Video
 
-<video src="https://youtu.be/etK0MsXGRbg" width=100/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=etK0MsXGRbg" target="_blank">
+ <img src="http://img.youtube.com/vi/etK0MsXGRbg/mqdefault.jpg" alt="Watch the video" width="500" border="10" />
+</a>
+
+
 
 ## Examples Art Gifs (available on website)
 
-https://2082346992-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Flt6e0pRnI5Xdcy7HrsNR%2Fuploads%2F9ayxrIUNsBx2iTCzmK2c%2Ftruchet.GIF?alt=media&token=cbe05195-ee96-4f44-ad66-a9bbbc5ae158
+
+![cat](https://github.com/genhub-art/genhub/assets/44375889/9ab103de-33ef-473e-b975-796ef690c64d)
+![orbit](https://github.com/genhub-art/genhub/assets/44375889/63ac3c94-6a2e-4385-8e89-70c2c913eca4)
+![truchet](https://github.com/genhub-art/genhub/assets/44375889/58f253dc-5ccc-48ac-b254-9aa0938ce335)
+
+
